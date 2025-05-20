@@ -1,8 +1,7 @@
 
 # E-Commerce Session Pattern Analysis
 
-**Author:** Luisa Rosa  
-**Date:** May 2025  
+**Author:** Luisa Rosa   
 **Capstone Project**
 
 ## Overview

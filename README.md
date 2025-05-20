@@ -1,5 +1,5 @@
 
-# E-Commerce Session Pattern Analysis
+# E-Commerce Behavioral Patterns and Consumer Insights
 
 **Author:** Luisa Rosa   
 **Capstone Project**
